@@ -1,0 +1,45 @@
+/* text area */
+#msg {
+    resize: none;
+    width: 50%;
+    text-indent: 1em;
+    line-height: 30px;
+}
+/* grid box to display form */
+.feedback-container{
+   display: grid;
+   width: 100%;
+   align-items: center;
+   margin: auto;
+   padding: 50px;
+}
+.feedback-content {
+    margin: 10px;
+    border-radius: 16px;
+}
+/* submit button */
+#btn {
+    border-radius: 14px;
+    margin: 10px;
+    width: 100px;
+}
+.right {
+    display: inline-grid;
+    float: left;
+    width: 100%;
+}
+.top {
+    text-align: center;
+    margin: auto;
+    padding-top: 25px;
+    width: 100%;
+}
+/* page heading */
+.top h3{
+    font-family: fantasy;
+    color: white;
+    font-size: 40px;
+}
+.label {
+    display: block;
+}

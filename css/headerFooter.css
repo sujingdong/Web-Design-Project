@@ -1,0 +1,71 @@
+body{
+  background-color: #cab095;
+  margin: 0;
+  padding: 0;
+} 
+/* hover effect for navigation bar links */
+.navbar-brand:hover,.nav-link:hover {
+  color: #D3BFA7;;
+}
+.carousel-inner img {
+  width: 100%;
+}
+/* button's background color and font color */
+.bg{
+  background-color: #bc977f;
+  color: white;
+}
+/* button's border */
+.white {
+  border-color: white;
+}
+/* three bars inside the button */
+.bar {
+  display: block;
+  width: 2em;
+  margin: 3px 0;
+  border-bottom: 2px solid white;
+}
+
+.navbar {
+  position: relative;
+  display: flex;
+  align-items: center;
+  padding-top: 0.5rem;
+  padding-bottom: 0.5rem;
+  padding-left: 15px;
+}
+/* navigation bar, brand font */
+.cursive {
+font-family: 'Brush Script MT';
+font-size: 30px;
+}
+.cart {
+  float: right;
+}
+ul li {
+  list-style: none;
+}
+
+/* footer's heading */
+.heading {
+  text-indent: 1em;
+  padding-top: 10px;
+  color: white;
+  font-size: 40px;
+}
+.contact_details {
+  font-family: Verdana, Arial, Helvetica, sans-serif;
+  padding: 5px;
+}
+/* footer's background */
+.footerbg {
+  background-color: #bc977f;
+  color: white;
+  margin-bottom: -50px;
+}
+.number, .address, .email {
+  display: inline-block;
+  height: 35px;
+  padding-left: 10px;
+}

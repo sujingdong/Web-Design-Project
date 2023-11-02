@@ -1,0 +1,21 @@
+Sujing Dong, 21388286
+The option I have chosen is the first one, a food business website.
+
+I used bootstrap for carousel and navigation bar, links of bootstrap CDN:
+https://cdn.staticfile.org/twitter-bootstrap/5.1.1/css/bootstrap.min.css
+https://cdn.staticfile.org/twitter-bootstrap/5.1.1/js/bootstrap.bundle.min.js
+
+All the images used in this project are from canvas,google images(creative),pinterest and my own drawing, for editing posters I used free online poster template on a website (www.chuangkit.com).
+
+Main functionality of webiste:
+1. 'About' page contains a modal with images of foods.
+2. 'Contact' page allows clients to give feedback through filling the form. All the feedbacks are stored in a database.
+3. 'Order' page allows clients to add food into basket, to change quantity, to remove products from basket and leads to the order placed page when click the pay button.
+4. 'Join us' page contains links to linkedIn and gmail.
+
+
+Host: localhost
+Username: student
+Password: COMP20030
+Database: feedback
+Table: customerfeedback
